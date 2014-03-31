@@ -1,0 +1,70 @@
+
+<dict>
+	cocos2d.x.version: 2.2.1
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics Family
+	gl.version: 3.1.0 - Build 8.15.10.2827
+	gl.max_texture_size: 8192
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: E:\cocos2d-x+lua\lua\item\engin\git\quick-cocos2d-x\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 29
+------------------------------------------------
+LOAD LUA FILE: F:/workspace/lua/Butterfly/client/src//scripts/main.lua
+------------------------------------------------
+lua_loadChunksFromZIP() - load zip file: F:\workspace\lua\Butterfly\client\src\res/script/framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 54
+lua_loadChunksFromZIP() - load zip file: F:\workspace\lua\Butterfly\client\src\res/script/engin_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 42
+[0.1438] [INFO] 
+[0.1441] [INFO] # DEBUG                        = 1
+[0.1447] [INFO] #
+[0.1452] [INFO] # device.platform              = windows
+[0.1455] [INFO] # device.model                 = unknown
+[0.1459] [INFO] # device.language              = cn
+[0.1464] [INFO] # device.writablePath          = F:\workspace\lua\Butterfly\client\src\\
+[0.1471] [INFO] # device.cachePath             = F:\workspace\lua\Butterfly\client\src\\
+[0.1478] [INFO] # device.directorySeparator    = \
+[0.1483] [INFO] # device.pathSeparator         = ;
+[0.1488] [INFO] #
+[0.1508] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+[0.1511] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+[0.1516] [INFO] # CONFIG_SCREEN_HEIGHT         = 426.67
+[0.1521] [INFO] # display.widthInPixels        = 960.00
+[0.1526] [INFO] # display.heightInPixels       = 640.00
+[0.1531] [INFO] # display.contentScaleFactor   = 1.50
+[0.1536] [INFO] # display.width                = 640.00
+[0.1541] [INFO] # display.height               = 426.67
+[0.1546] [INFO] # display.cx                   = 320.00
+[0.1551] [INFO] # display.cy                   = 213.33
+[0.1557] [INFO] # display.left                 = 0.00
+[0.1564] [INFO] # display.right                = 640.00
+[0.1575] [INFO] # display.top                  = 426.67
+[0.1584] [INFO] # display.bottom               = 0.00
+[0.1603] [INFO] # display.c_left               = -320.00
+[0.1612] [INFO] # display.c_right              = 320.00
+[0.1629] [INFO] # display.c_top                = 213.33
+[0.1635] [INFO] # display.c_bottom             = -213.33
+[0.1639] [INFO] #
+[0.1987] [INFO] Scene "BaseScene:onEnter()"
+[5.8297] [INFO] Scene "BaseScene:onExit()"
+[5.8301] [INFO] ----------------------------------------
+[5.8306] [INFO] LUA VM MEMORY USED: 1576.96 KB
+cocos2d: "cc_fps_images" rc=4 id=2 256 x 32 @ 16 bpp => 16 KB
+cocos2d: "F:\workspace\lua\Butterfly\client\src\res/image/block.png" rc=11 id=3 84 x 256 @ 32 bpp => 84 KB
+cocos2d: "F:\workspace\lua\Butterfly\client\src\res/image/birds.png" rc=2 id=4 43 x 47 @ 32 bpp => 7 KB
+cocos2d: "cc_2x2_white_image" rc=1 id=5 2 x 2 @ 32 bpp => 0 KB
+cocos2d: CCTextureCache dumpDebugInfo: 4 textures, for 107 KB (0.11 MB)
+[5.8344] [INFO] ----------------------------------------
+cocos2d: CCTextureCache: texture: cc_fps_images
+cocos2d: CCTextureCache: texture: F:\workspace\lua\Butterfly\client\src\res/image/block.png
+cocos2d: CCTextureCache: texture: F:\workspace\lua\Butterfly\client\src\res/image/birds.png
+cocos2d: CCTextureCache: texture: cc_2x2_white_image
+cocos2d: CCTextureCache: removing unused texture: cc_2x2_white_image
